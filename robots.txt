@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://lerafejo.github.io/sitemap/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/NHM/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/cpC/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Wcd/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Osn/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/nvF/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/GIO/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Kjk/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/eRo/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/AFi/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/XZr/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Sdw/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/ujW/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/XLV/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Blk/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/HCJ/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/HNb/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/HRQ/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/oYl/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/sip/sitemap_index.lerafejo
+Sitemap: https://lerafejo.github.io/Bmy/sitemap_index.lerafejo
